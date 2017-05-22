@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.15.3",
+    "google-search": "0.0.5",
     "mongodb": "^2.2.27"
   }
 }
